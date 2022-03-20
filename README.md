@@ -19,4 +19,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 Link to deployed application: https://tonyt504.github.io/whats-my-password/
-![password-generator](./Develop/password%20gen.png)
+![password-generator](./password%20gen.png)
